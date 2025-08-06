@@ -1,7 +1,7 @@
 # alloydb-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for AlloyDB
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for AlloyDB (beta)](https://www.cdata.com/download/download.aspx?sku=KYZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for AlloyDB (beta)](https://www.cdata.com/download/download.aspx?sku=KYZM-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data AlloyDB supported by the [CData JDBC Driver for AlloyDB](https://www.cdata.com/drivers/alloydb/jdbc).
 
